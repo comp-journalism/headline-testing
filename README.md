@@ -2,7 +2,7 @@
 A pilot analysis of headline data from the New York Times.
 
 ## Recent activity
-10/31 - Started building out variables from headline text
+10/30 - Commented code and documented project; committed to lab repo.
 
 ## Files
 **NYT pilot.ipynb**: Jupyter notebook with commented code for data ingestion, cleaning, and manipulation.
