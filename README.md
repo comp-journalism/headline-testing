@@ -2,6 +2,7 @@
 A pilot analysis of headline data from the New York Times.
 
 ## Recent activity
+11/2 - Built and applied first-draft feature extraction pipeline to all data
 10/31 - Started building out variables for testing hypotheses
 10/30 - Commented code and documented project; committed to lab repo.
 
