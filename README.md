@@ -6,7 +6,7 @@ A pilot analysis of headline data from the New York Times.
 **Three years before:** August 6, 2012
 
 ## Recent activity
-11/6 - Visualized change over time of first-draft features in Tableau
+11/6 - Visualized change over time of first-draft features in Tableau; added table with NLP processing data
 11/5 - Moved data into Tableau
 11/2 - Built and applied first-draft feature extraction pipeline to all data
 10/31 - Started building out variables for testing hypotheses
@@ -25,3 +25,5 @@ A pilot analysis of headline data from the New York Times.
 **NYT headlines:** Code to pull headlines from the NYT archive API, clean them, and write them into a PostgreSQL table.
 
 **Generating variables:** Code to extract features from headlines and stored to database.
+
+**Intermedia processing:** Code to run Spacy NLP processing and store part of speech tags and entity analysis in database.
