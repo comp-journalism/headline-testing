@@ -6,6 +6,7 @@ A pilot analysis of headline data from the New York Times.
 **Three years before:** August 6, 2012
 
 ## Recent activity
+1/9 - Rewrote database I/O with odo; reorganized feature extraction; spotted duplication from NYT API
 11/6 - Visualized change over time of first-draft features in Tableau; added table with NLP processing data
 11/5 - Moved data into Tableau
 11/2 - Built and applied first-draft feature extraction pipeline to all data

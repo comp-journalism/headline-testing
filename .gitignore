@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 variables.env
+NYT-two.ipynb
+*.xls
+*.p
